@@ -1,0 +1,218 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.big_container{
+	margin: auto;
+	width: 908px;
+	height: 940px;
+}
+
+.container{
+	margin: auto;
+	background:#FAEBD7;
+	height: 100px;
+	width: 900px;
+}
+
+.top {
+	background: #FAEBD7;
+	height: 150px;
+	width: 900px;
+	margin: auto;
+	padding: 25px 0;
+}
+
+.top-small{
+	width: 60%;
+	height: 100px;
+	background: #D2B48C;
+	margin: auto;
+	padding: 25px
+}
+
+.hat{
+	width: 60%;
+	height: 50px;
+	background: #FFFFF0;
+	margin: auto;
+}
+
+.big_box{
+	width: 900px;
+}
+
+.box{
+	height: 150px;
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+
+.cell{
+	width: 300px;
+	height: 500px;
+	background: #6495ED;
+	float: left;
+}
+
+.text{
+	width: 60%;
+	height: 80px;
+	line-height: 80px;
+	margin: 10px auto ;
+	background: #C0C0C0;
+}
+
+.W{
+	width: 50%;
+	height: 390px;
+	margin: 20px auto;
+}
+
+.S{
+	width: 150px;
+	height: 150px;
+}
+
+.Wt{
+	width: 50%;
+	height: 240px;
+	float: left;
+ }
+
+.A{
+	height: 50px;
+	background: #008080;
+}
+
+.BCD{
+	width: 100px;
+	height: 450px;
+	float: left;
+}
+
+.B{
+	height: 100%;
+	background: #66CDAA;
+}
+
+.b{
+	height: 20%;
+}
+
+.BB{
+	float: left;
+}
+
+.C1{
+	height: 25%;
+	background: #ADD8E6;
+}
+
+.C2{
+	height: 25%;
+	background: #00008B;
+}
+
+.C3{
+	height: 25%;
+	background: #8B008B;
+}
+
+.C4C5{
+	height: 25%;
+}
+
+.C45{
+	float: left;
+}
+
+.D{
+	height: 25%;
+	background: #40E0D0;
+}
+
+.D1{
+	height: 25%;
+	background: #008080;
+}
+
+.D3{
+	height: 50%;
+	background: #FFDEAD;
+}
+
+.I_II_III{
+	width: 100px;
+	height: 50px;
+	float: left;
+}
+
+.I_III{
+	height: 50px;
+}
+
+.o2{
+	height: 70px;
+	width: 100%;
+	background: #FAF0E6;
+	padding: 20px;
+}
+
+.o3{
+	height: 30px;
+	width: 120px;
+	background: #FF0000;
+	margin: auto;
+	padding: 25px 0 0 0;
+}
+
+.o4{
+	background: black;
+	height: 5px;
+	width: 30px;
+	margin: auto;
+}
+
+.o6{
+	height: 70px;
+	width: 100%;
+	background: #DCDCDC;
+}
+
+.VII_XI{
+	height: 310px;
+	width: 300px;
+	background: #DDA0DD;
+}
+
+.VII{
+	float: left;
+}
+
+.VIII_{
+	height: 100px;
+	width: 200px;
+	float: left;
+}
+
+.VIII{
+	float: left;
+}
+
+.XI{
+	background: red;
+	height: 100px;
+	width: 200px;
+
+
+}
+
+.XII{
+	height: 130px;
+	width: 900px;
+	background: #696969;
+	float: left;
+}
